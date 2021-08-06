@@ -1,0 +1,7 @@
+resolver: lts-17.14
+
+extra-deps:
+# - git:    https://github.com/Heimdell/descent.git
+#   commit: cb7641be543e86640a9bb8017a527daf8cd63185
+- ../descent
+- polysemy-1.6.0.0@sha256:29a73b1bf3d0049b12041016b7ee25e76bd8f6e99f9c37c2dde2b46368246697,6184
